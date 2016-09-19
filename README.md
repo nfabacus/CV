@@ -1,9 +1,14 @@
 [LinkedIn](https://www.linkedin.com/in/noby-fujioka-6741656) | n.fujioka@abacusmaths.info
 # Nobuyuki Fujioka
-![alt tag](https://avatars3.githubusercontent.com/u/7132281?s=200)
 
 ## Self-Driven Junior Full Stack Developer
-I am a passionate and keen learner and coder for web development, and just graduated from the Makers Academy - 4-months intensive coding bootcamp.
+I am a passionate and keen learner and coder for web development, and just graduated from the [Makers Academy](http://www.makersacademy.com/) - 4-months intensive coding bootcamp.
+
+As my hobby and business, I have also been tutoring primary school children using the traditional Japanese abacus combined with mobile web technology, using my online platform.
+
+Alongside the full-time makers academy programme and teaching, I have been working on my personal coding projects every evening.  Please have a look at some of my projects below.
+
+I also have a solid project management experience working for international manufacturing companies in the past.
 
 ## My Portfolio
 ### Team work
