@@ -10,13 +10,13 @@ Alongside the full-time makers academy programme and teaching, I have been worki
 
 I also have a solid project management experience working for international manufacturing companies in the past.
 
-## My Portfolio
+## [My Portfolio](https://github.com/nfabacus?tab=repositories)
 ### Team work
 - [volunteer-matcher Website](https://github.com/arukomp/volunteer-matcher) - Built only in three days without previous experience in the technologies (jade, express, mongoDB)
 - [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end.
 
 ### Individual work
-Makers Weekend Challenges:
+Makers Challenges:
 - [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript, plus exploratory coding using canvas and basic collision detection algorithm.
 - [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra
 - [Yelp Clone](https://github.com/nfabacus/yelp-clone)
@@ -39,7 +39,7 @@ React and API
 Business projects:
 - Abacus x Maths Learning
   - [Abacus Maths Website (made with Wix editor)](http://www.abacusmaths.info/)
-  - [Abacus Learning Lab (heavily customised Moodle site)](http://www.abacusmathslearning.com/) - actual production site
+  - [Abacus Learning Lab (heavily customised Moodle site)](http://www.abacusmathslearning.com/)
 
 ## Work Experience
 #### Abacus Maths x Learning October 2010 to Present
@@ -67,4 +67,7 @@ International Project Manager, Overseas Sales Department
 Intensive coding bootcamp to become a full stack web developer
 #### M.A., International Relations (1998-1999)
 University of Sussex at Brighton, U.K.#### B.A., International Affairs (1993-1998), with distinction
-University of Nevada at Reno, NV, U.S.A.Major in International Affairs, minor in Economics and French
+University of Nevada at Reno, NV, U.S.A.Major in International Affairs, minor in Economics and French
+
+## Languages
+English, Japanese, and basic French
