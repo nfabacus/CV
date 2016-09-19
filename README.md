@@ -2,11 +2,10 @@
 # Nobuyuki Fujioka
 ![alt tag](https://avatars3.githubusercontent.com/u/7132281?s=200)
 
-### A full stack developer seeking his first web dev position
-Graduated from the Makers Academy - 4-months intensive coding bootcamp.
+### A self-driven full stack developer, seeking his first web dev position
+I am passionate about web development, and just graduated from the Makers Academy - 4-months intensive coding bootcamp.
 
-
-## Skills - Web Development:
+## My Portfolio
 ### Team work
 - [volunteer-matcher Website](https://github.com/arukomp/volunteer-matcher) - Built only in three days without previous experience in the technologies (jade, express, mongoDB)
 - [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end.
@@ -35,7 +34,7 @@ Business projects:
   - [Abacus Maths Website (made with Wix editor)](http://www.abacusmaths.info/)
   - [Abacus Learning Lab (heavily customised Moodle site)](http://www.abacusmathslearning.com/) - actual production site
 
-## Work Experience:
+## Work Experience
 #### Abacus Maths x Learning October 2010 to Present
 Creater, Owner, and Instructor - developed educational platform for local primary school children.
 
@@ -55,7 +54,7 @@ Project Manager, European Telecom Headquarters
 The top manufacturing company for keypads of mobile phones and devices worldwide at that time.
 International Project Manager, Overseas Sales Department
 
-## Education:
+## Education
 
 #### Makers Academy (June 2016 - September 2016)
 Intensive coding bootcamp to become a full stack web developer
