@@ -6,9 +6,17 @@
 Graduated from the Makers Academy - 4-months intensive coding bootcamp.
 
 
-## Skills - Web Development
-### Individual work
+## Skills - Web Development:
+### Team work
+- [volunteer-matcher Website](https://github.com/arukomp/volunteer-matcher) - Built only in three days without previous experience in the technologies (jade, express, mongoDB)
+- [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end.
 
+### Individual work
+Makers Weekend Challenge:
+- [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript, plus exploratory coding using canvas and basic collision detection algorithm.
+- [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra
+
+Personal projects:
 
 Javascript/JQuery/HTML/CSS
 - [Personal portfolio page](https://codepen.io/nfabacus/full/jWOQLN/) - No CSS framework used.
@@ -22,22 +30,12 @@ React and API
 - [Local Weather App](https://codepen.io/nfabacus/full/VjEaEX/) - Geolocation and Weather API
 - [Twitch TV Streamer](https://codepen.io/nfabacus/full/LRNxAp/) - Twitch TV API
 
-Personal projects
+Business projects:
 - Abacus x Maths Learning
   - [Abacus Maths Website (made with Wix editor)](http://www.abacusmaths.info/)
   - [Abacus Learning Lab (heavily customised Moodle site)](http://www.abacusmathslearning.com/) - actual production site
 
-
-
-Makers Weekend Challenge
-- [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript, plus exploratory coding using canvas and basic collision detection algorithm.
-- [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra
-
-### Team work
-- [volunteer-matcher Website](https://github.com/arukomp/volunteer-matcher) - Built only in three days without previous experience in the technologies (jade, express, mongoDB)
-- [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end.
-
-### Experience:
+## Work Experience:
 #### Abacus Maths x Learning October 2010 to Present
 Creater, Owner, and Instructor - developed educational platform for local primary school children.
 
@@ -57,7 +55,7 @@ Project Manager, European Telecom Headquarters
 The top manufacturing company for keypads of mobile phones and devices worldwide at that time.
 International Project Manager, Overseas Sales Department
 
-## Education
+## Education:
 
 #### Makers Academy (June 2016 - September 2016)
 Intensive coding bootcamp to become a full stack web developer
