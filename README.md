@@ -7,7 +7,7 @@ Graduated from the Makers Academy - 4-months intensive coding bootcamp.
 
 
 ## Skills - Web Development
-### Individual work:
+### Individual work
 
 
 Javascript/JQuery/HTML/CSS
@@ -22,19 +22,26 @@ React and API
 - [Local Weather App](https://codepen.io/nfabacus/full/VjEaEX/) - Geolocation and Weather API
 - [Twitch TV Streamer](https://codepen.io/nfabacus/full/LRNxAp/) - Twitch TV API
 
+Personal projects
+- Abacus x Maths Learning
+  - [Abacus Maths Website (made with Wix editor)](http://www.abacusmaths.info/)
+  - [Abacus Learning Lab (heavily customised Moodle site)](http://www.abacusmathslearning.com/) - actual production site
+
+
+
 Makers Weekend Challenge
 - [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript, plus exploratory coding using canvas and basic collision detection algorithm.
 - [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra
 
-### Team work:
+### Team work
 - [volunteer-matcher Website](https://github.com/arukomp/volunteer-matcher) - Built only in three days without previous experience in the technologies (jade, express, mongoDB)
 - [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end.
 
-### Experience
+### Experience:
 #### Abacus Maths x Learning October 2010 to Present
 Creater, Owner, and Instructor - developed educational platform for local primary school children.
 
-#### House Husband (October 2009- September 2010)
+#### House husband (October 2009- September 2010)
 Looked after my children
 
 #### Sanyo Europe Ltd   Watford (April 2008 to September 2009)
