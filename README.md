@@ -11,9 +11,11 @@ I am a passionate and keen learner and coder for web development, and just gradu
 - [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end.
 
 ### Individual work
-Makers Weekend Challenge:
+Makers Weekend Challenges:
 - [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript, plus exploratory coding using canvas and basic collision detection algorithm.
 - [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra
+- [Yelp Clone](https://github.com/nfabacus/yelp-clone)
+- [Instagram Challenge](https://github.com/nfabacus/instagram-challenge)
 
 Personal projects:
 
