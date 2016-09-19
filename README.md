@@ -3,7 +3,7 @@
 ![alt tag](https://avatars3.githubusercontent.com/u/7132281?s=200)
 
 ## Self-Driven Junior Full Stack Developer
-I am a passionate and keen learner and coder about web development, and just graduated from the Makers Academy - 4-months intensive coding bootcamp.
+I am a passionate and keen learner and coder for web development, and just graduated from the Makers Academy - 4-months intensive coding bootcamp.
 
 ## My Portfolio
 ### Team work
@@ -39,7 +39,7 @@ Business projects:
 Creater, Owner, and Instructor - developed educational platform for local primary school children.
 
 #### House husband (October 2009- September 2010)
-Looked after my children
+Looked after and tutored my children
 
 #### Sanyo Europe Ltd   Watford (April 2008 to September 2009)
 Product Manager, Digital Imaging and Projectors
