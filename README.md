@@ -2,7 +2,7 @@
 # Nobuyuki Fujioka
 ![alt tag](https://avatars3.githubusercontent.com/u/7132281?s=200)
 
-## Self-driven Junior Full Stack Developer
+## Self-Driven Junior Full Stack Developer
 I am passionate about web development, and just graduated from the Makers Academy - 4-months intensive coding bootcamp.
 
 ## My Portfolio
