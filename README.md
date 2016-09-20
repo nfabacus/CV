@@ -17,7 +17,7 @@ I also have a solid project management experience working for international manu
 
 ### Individual work
 Makers Challenges:
-- [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra, Test Driven Development.
+- [Chitter Challenge](https://chitter-away.herokuapp.com/posts) - Sinatra, Test Driven Development.
 - [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript (Test Driven for non-canvas code), plus exploratory coding using canvas and basic collision detection algorithm.
 - [Instagram Challenge](https://github.com/nfabacus/instagram-challenge) - Ruby on Rails
 
@@ -44,7 +44,7 @@ Business projects:
 #### Abacus Maths x Learning October 2010 to Present
 Creater, Owner, and Instructor - developed educational platform for local primary school children.
 
-#### House husband (October 2009- September 2010)
+#### Full-time parent (October 2009- September 2010)
 Looked after and tutored my children
 
 #### Sanyo Europe Ltd   Watford (April 2008 to September 2009)
