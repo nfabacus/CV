@@ -12,15 +12,14 @@ I also have a solid project management experience working for international manu
 
 ## [My Portfolio](https://github.com/nfabacus?tab=repositories)
 ### Team work
-- [volunteer-matcher Website](https://github.com/arukomp/volunteer-matcher) - Built only in three days without previous experience in the technologies (jade, express, mongoDB)
-- [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end.
+- [volunteer-matcher Website](https://github.com/arukomp/volunteer-matcher) - Built only in three days without previous experience in the technologies (jade, express, mongoDB), Test Driven Development.
+- [blank_canvas](https://github.com/hannako/blank_canvas) - Built with Rails. Equal importance on design/styling as much as back-end, Test Driven Development
 
 ### Individual work
 Makers Challenges:
-- [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript, plus exploratory coding using canvas and basic collision detection algorithm.
-- [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra
-- [Yelp Clone](https://github.com/nfabacus/yelp-clone)
-- [Instagram Challenge](https://github.com/nfabacus/instagram-challenge)
+- [Chitter Challenge](https://github.com/nfabacus/chitter-challenge) - Sinatra, Test Driven Development.
+- [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript (Test Driven for non-canvas code), plus exploratory coding using canvas and basic collision detection algorithm.
+- [Instagram Challenge](https://github.com/nfabacus/instagram-challenge) - Ruby on Rails
 
 Personal projects:
 
@@ -31,7 +30,7 @@ Javascript/JQuery/HTML/CSS
 - [Inspirational Quote Machine](https://codepen.io/nfabacus/full/zrYMoB/) - bootstrap
 
 React and API
-- [Wikipedia Viewer](https://react-wikipedia-viewer.herokuapp.com) - Made with React Component. Wikipedia API
+- [Wikipedia Viewer](https://react-wikipedia-viewer.herokuapp.com) - Made with React Components. Wikipedia API
 - [Simple React App](https://react-experiment-app.herokuapp.com/) - React Components.
 - [Local Weather App](https://codepen.io/nfabacus/full/VjEaEX/) - Geolocation and Weather API
 - [Twitch TV Streamer](https://codepen.io/nfabacus/full/LRNxAp/) - Twitch TV API
