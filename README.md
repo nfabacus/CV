@@ -1,14 +1,14 @@
 [LinkedIn](https://www.linkedin.com/in/noby-fujioka-6741656) | n.fujioka@abacusmaths.info
 # Nobuyuki Fujioka
 
-## Self-Driven Junior Full Stack Developer
-I am a passionate and keen learner and coder for web development, and just graduated from the [Makers Academy](http://www.makersacademy.com/) - 4-months intensive coding bootcamp.
+## Self-Driven Full Stack Developer
+I am passionate about coding for web development, recently graduating from the [Makers Academy](http://www.makersacademy.com/) - 4-month intensive coding bootcamp.
 
-As my hobby and business, I have also been tutoring primary school children using the traditional Japanese abacus combined with mobile web technology, using my online platform.
+I became interested in coding whilst developing a mobile-responsive online platform for my small business tutoring children using the Japanese abacus.  
 
-Alongside the full-time makers academy programme and teaching, I have been working on my personal coding projects every evening.  Please have a look at some of my projects below.
+Alongside the full-time makers academy programme and teaching, I have been working on personal coding projects, some of which are linked below.
 
-I also have a solid project management experience working for international manufacturing companies in the past.
+I have nine years' project management experience in international manufacturing companies, including Foxconn and Sanyo.
 
 ## [My Portfolio](https://github.com/nfabacus?tab=repositories)
 ### Team work
@@ -42,10 +42,10 @@ Business projects:
 
 ## Work Experience
 #### Abacus Maths x Learning October 2010 to Present
-Creater, Owner, and Instructor - developed educational platform for local primary school children.
+Creater, Owner, and Instructor - developed educational platform for primary school children.
 
-#### Full-time parent (October 2009- September 2010)
-Looked after and tutored my children
+#### Full-time parent to my two pre-school children (October 2009- September 2010)
+
 
 #### Sanyo Europe Ltd   Watford (April 2008 to September 2009)
 Product Manager, Digital Imaging and Projectors
