@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/noby-fujioka-6741656) | n.fujioka@abacusmaths.info
 # Nobuyuki Fujioka
 
-## Self-Driven Full Stack Developer
+## Self-Driven Full Stack Web Developer
 I am passionate about coding for web development, recently graduating from the [Makers Academy](http://www.makersacademy.com/) - 4-month intensive coding bootcamp.
 
 I became interested in coding whilst developing a mobile-responsive online platform for my small business tutoring children using the Japanese abacus.  
