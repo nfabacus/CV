@@ -43,7 +43,7 @@ Business projects:
 
 ## Work Experience
 #### Abacus Maths x Learning October 2010 to Present
-Creater, Owner, and Instructor - developed educational platform for primary school children.
+Creater, Owner, Instructor, Web Developer - developed educational platform for primary school children.
 
 #### Full-time parent to my two pre-school children (October 2009- September 2010)
 
