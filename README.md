@@ -24,7 +24,8 @@ Makers Challenges:
 Personal projects:
 
 Javascript/JQuery/HTML/CSS
-- [Personal portfolio page](https://codepen.io/nfabacus/full/jWOQLN/) - No CSS framework used.
+- [Personal portfolio page](https://codepen.io/nfabacus/full/jWOQLN/) - Pure HTML, CSS, Javascript without CSS framework.
+- [Sentence Mixer](https://sentence-mixer.firebaseapp.com/) - jQuery, CSS, html. MVP made for a Japanese learner in my Javascript meetup group ([JavascriptDojo](https://www.meetup.com/JavaScript-Dojo-Cheltenham/events/233634715/))
 - [Calculator](https://codepen.io/nfabacus/full/rxeyZO/) - Made with javascript, html, css
 - [Pomodoro Timer](https://codepen.io/nfabacus/full/JGYNRm/) - javascript, html, css
 - [Inspirational Quote Machine](https://codepen.io/nfabacus/full/zrYMoB/) - bootstrap
