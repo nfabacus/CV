@@ -13,7 +13,7 @@ I have nine years' project management experience in international manufacturing 
 ## [My Portfolio](https://github.com/nfabacus?tab=repositories)
 ### Team work
 - [volunteer-matcher Website](https://makers-volunteer-matcher.herokuapp.com/) - Built only in three days without previous experience in the technologies (jade, express, mongoDB), Test Driven Development.
-- [blank_canvas](https://github.com/hannako/blank_canvas) ([video demo](https://vimeo.com/183908628)) - Built with Rails. Equal importance on design/styling as much as back-end, Test Driven Development
+- [blank_canvas](https://github.com/hannako/blank_canvas) ([demo](https://blank-canvas-app.herokuapp.com/)) - Built with Rails. Equal importance on design/styling as much as back-end, Test Driven Development
 
 ### Individual work
 Makers Challenges:
@@ -23,14 +23,14 @@ Makers Challenges:
 
 Personal projects:
 
-Javascript/JQuery/HTML/CSS
+Javascript/JQuery/HTML/CSS/Mobile Responsive
 - [Personal portfolio page](https://codepen.io/nfabacus/full/jWOQLN/) - Pure HTML, CSS, Javascript without CSS framework.
 - [Sentence Mixer](https://sentence-mixer.firebaseapp.com/) - jQuery, CSS, html. MVP made for a Japanese learner in my Javascript meetup group ([JavascriptDojo](https://www.meetup.com/JavaScript-Dojo-Cheltenham/events/233634715/))
 - [Calculator](https://codepen.io/nfabacus/full/rxeyZO/) - Made with javascript, html, css
 - [Pomodoro Timer](https://codepen.io/nfabacus/full/JGYNRm/) - javascript, html, css
 - [Inspirational Quote Machine](https://codepen.io/nfabacus/full/zrYMoB/) - bootstrap
 
-React and API
+React and API - All Mobile Responsive
 - [Wikipedia Viewer](https://react-wikipedia-viewer.herokuapp.com) - Made with React Components. Wikipedia API
 - [Simple React App](https://react-experiment-app.herokuapp.com/) - React Components.
 - [Local Weather App](https://codepen.io/nfabacus/full/VjEaEX/) - Geolocation and Weather API
