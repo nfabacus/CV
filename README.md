@@ -12,8 +12,9 @@ I have nine years' project management experience in international manufacturing 
 
 ## [My Portfolio](https://github.com/nfabacus?tab=repositories)
 ### Team work
-- [volunteer-matcher Website](https://makers-volunteer-matcher.herokuapp.com/) - Built only in three days without previous experience in the technologies (jade, express, mongoDB), Test Driven Development.
 - [blank_canvas](https://github.com/hannako/blank_canvas) ([demo](https://blank-canvas-app.herokuapp.com/)) - Built with Rails. Equal importance on design/styling as much as back-end, Test Driven Development
+
+- [volunteer-matcher Website](https://makers-volunteer-matcher.herokuapp.com/) - Built only in three days without previous experience in the technologies (jade, express, mongoDB), Test Driven Development.
 
 ### Individual work
 Makers Challenges:
