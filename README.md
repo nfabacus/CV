@@ -1,49 +1,21 @@
 [LinkedIn](https://www.linkedin.com/in/noby-fujioka-6741656) | n.fujioka@abacusmaths.info
 # Nobuyuki Fujioka
 
-## Self-Driven Full Stack Web Developer
-I am passionate about coding for web development, recently graduating from the [Makers Academy](http://www.makersacademy.com/) - 4-month intensive coding bootcamp.
+## Self-Driven Web Developer
+I am passionate about coding for web development.
+I am a full-time web developer, professionally at work and personally at home.
 
-I became interested in coding whilst developing a mobile-responsive online platform for my small business tutoring children using the Japanese abacus.  
+Originally I became interested in coding whilst developing a mobile-responsive online platform for my small business tutoring children using the Japanese abacus.  
 
-Alongside the full-time makers academy programme and teaching, I have been working on personal coding projects, some of which are linked below.
+I also have nine years' project management experience in international manufacturing companies, including Foxconn and Sanyo.
 
-I have nine years' project management experience in international manufacturing companies, including Foxconn and Sanyo.
+## [My Github Projects - github.com/nfabacus](https://github.com/nfabacus?tab=repositories)
 
-## [My Portfolio](https://github.com/nfabacus?tab=repositories)
-### Team work
-- [blank_canvas](https://github.com/hannako/blank_canvas) ([demo](https://blank-canvas-app.herokuapp.com/)) - Built with Rails. Equal importance on design/styling as much as back-end, Test Driven Development
-
-- [volunteer-matcher Website](https://makers-volunteer-matcher.herokuapp.com/) - Built only in three days without previous experience in the technologies (jade, express, mongoDB), Test Driven Development.
-
-### Individual work
-Makers Challenges:
-- [Chitter Challenge](https://chitter-away.herokuapp.com/posts) - Sinatra, Test Driven Development.
-- [Bowling Challenge](https://github.com/nfabacus/bowling-challenge) - javascript (Test Driven for non-canvas code), plus exploratory coding using canvas and basic collision detection algorithm.
-- [Instagram Challenge](https://github.com/nfabacus/instagram-challenge) - Ruby on Rails
-
-Personal projects:
-
-Javascript/JQuery/HTML/CSS/Mobile Responsive
-- [Personal portfolio page](https://codepen.io/nfabacus/full/jWOQLN/) - Pure HTML, CSS, Javascript without CSS framework.
-- [Sentence Mixer](https://sentence-mixer.firebaseapp.com/) - jQuery, CSS, html. MVP made for a Japanese learner in my Javascript meetup group ([JavascriptDojo](https://www.meetup.com/JavaScript-Dojo-Cheltenham/events/233634715/))
-- [Calculator](https://codepen.io/nfabacus/full/rxeyZO/) - Made with javascript, html, css
-- [Pomodoro Timer](https://codepen.io/nfabacus/full/JGYNRm/) - javascript, html, css
-- [Inspirational Quote Machine](https://codepen.io/nfabacus/full/zrYMoB/) - bootstrap
-
-React and API - All Mobile Responsive
-- [Wikipedia Viewer](https://react-wikipedia-viewer.herokuapp.com) - Made with React Components. Wikipedia API
-- [Simple React App](https://react-experiment-app.herokuapp.com/) - React Components.
-- [Local Weather App](https://codepen.io/nfabacus/full/VjEaEX/) - Geolocation and Weather API
-- [Twitch TV Streamer](https://codepen.io/nfabacus/full/LRNxAp/) - Twitch TV API
-
-Business projects:
-- Abacus x Maths Learning
-  - [Abacus Maths Website (made with Wix editor)](http://www.abacusmaths.info/)
-  - [Abacus Learning Lab (heavily customised Moodle site)](http://www.abacusmathslearning.com/)
-  - Live online tutoring site (using Opentok WebRTC technology)
 
 ## Work Experience
+#### Ecotricity January 2017 to Present
+Web Developer
+
 #### Abacus Maths x Learning October 2010 to Present
 Creater, Owner, Instructor, Web Developer - developed educational platform for primary school children.
 
