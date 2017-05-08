@@ -5,11 +5,12 @@
 I am passionate about coding for web development.
 I am a full-time web developer, professionally at work and personally at home.
 
-Originally I became interested in coding whilst developing a mobile-responsive online platform for my small business tutoring children using the Japanese abacus.  
+Originally I started to code around four years ago while developing a mobile-responsive online platform for my small business tutoring children using the Japanese abacus.  
 
 I also have nine years' project management experience in international manufacturing companies, including Foxconn and Sanyo.
 
 ## [My Github Projects - github.com/nfabacus](https://github.com/nfabacus?tab=repositories)
+Technologies - javascript, react-redux, angular, jquery, express, mongo, symfony (php).
 
 
 ## Work Experience
